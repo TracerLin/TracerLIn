@@ -121,8 +121,6 @@ int main()
     //附加条件
     scanf("%s %s %s %s %s %s %s %s %s %s", p1, p2, p3, p4, p5, p6, p7, p8, p9, p10);
     tem=hangzi(p4);
-    shuzi(qiwen);
-    printf("\n");
     
     if(qiwen>tem){
         printf("%s\n",p7);
