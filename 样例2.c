@@ -135,7 +135,7 @@ int main()
             }
             
         }//进行增减
-
+        
         
     }
     
@@ -148,8 +148,7 @@ int main()
     }else{
         printf("无");
     }
-
+    
     printf("\n");
 }
-
 
